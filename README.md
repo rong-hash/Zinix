@@ -1,7 +1,7 @@
 # Zinix
 
 ## What is Zinix
-A simple version of Linux
+An adapted version of Linux
 
 ## Functionality
 1. Signal (Including User Defined Signals)
