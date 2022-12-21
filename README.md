@@ -1,7 +1,7 @@
 # Zinix
 
-## Reason for Zinix
-All members' names contain a 'Z'
+## What is Zinix
+A simple version of Linux
 
 ## Functionality
 1. Signal (Including User Defined Signals)
